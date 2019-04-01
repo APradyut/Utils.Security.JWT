@@ -1,0 +1,9 @@
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\obj\Debug\netstandard2.0\Utils.Security.JWT.csprojAssemblyReference.cache
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\obj\Debug\netstandard2.0\Utils.Security.JWT.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\obj\Debug\netstandard2.0\Utils.Security.JWT.AssemblyInfoInputs.cache
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\obj\Debug\netstandard2.0\Utils.Security.JWT.AssemblyInfo.cs
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\bin\Debug\netstandard2.0\Utils.Security.JWT.deps.json
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\bin\Debug\netstandard2.0\Utils.Security.JWT.dll
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\bin\Debug\netstandard2.0\Utils.Security.JWT.pdb
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\obj\Debug\netstandard2.0\Utils.Security.JWT.dll
+C:\Users\Adarsh\source\repos\Utils.Security.JWT\Utils.Security.JWT\obj\Debug\netstandard2.0\Utils.Security.JWT.pdb
